@@ -16,8 +16,8 @@
     },
     "profiles": [
       {
-        "network":
-        "username":
+        "network":,
+        "username":,
         "url":
       }
     ]
@@ -29,7 +29,7 @@
       "url": "",
       "startDate": "2016-01-01",
       "endDate": "",
-      "summary": "I have worked as an in-house and freelance translator between English and Chinese (Simplified) for almost a decade, familiar with all steps of the professional localization process from proofreading to LQA. I have localized multiple popular AAA and mobile games, and also have experience in subtitling. Through localization work, I have developed an eye to translating not just literal meaning but also the cultural context to enrich interpretations of the work while avoid miscommunication.",
+      "summary": "I have worked as an in-house and freelance translator between English and Chinese (Simplified) for almost a decade, familiar with all steps of the professional localization process from proofreading to LQA. Through localization work, I have developed an eye to translating not just literal meaning but also the cultural context to enrich interpretations of the work while avoid miscommunication. I have localized multiple popular AAA and mobile games, and also have experience in subtitling.",
       "highlights": [""]
     }
   ],
