@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>UC Irvine</a>. PhD Student in Anthropology
+subtitle: <a href='#'>PhD Student in Anthropology</a> - UC Irvine
 
 profile:
   align: right
-  image: ericgu_155.jpg
+  image: cliff.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>73000 Verano Rd S</p>
