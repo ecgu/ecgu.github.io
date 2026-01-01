@@ -7,7 +7,7 @@ first_name: Eric
 middle_name:
 last_name: Gu
 contact_note: >
-  I aim to respond to emails as soon as possible!
+  Feel free to reach out to me by email
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   UC Irvine.
 footer_text: >
@@ -199,7 +199,7 @@ exclude:
   - _pages/repositories.md
   - _pages/about_einstein.md
   - _pages/blog.md
-  
+
 keep_files:
   - CNAME
   - .nojekyll
