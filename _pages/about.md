@@ -9,15 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>73000 Verano Rd S</p>
+    <p>Irvine, CA 92617</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,8 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, my name is Eric Gu. I am a PhD student in Anthropology at the University of California, Irvine. My work revolves around how people use political and religious practices latent in the fabric of everyday life to envision alternative social possiblities and build community. My previous research includes how people formulate conspiracy theories together on <span title='the website formerly known as'>8chan</span> and how right-wing users with different religious identities debate and attempt to convert one another on <span title='the website formerly known as'>Twitter</span>. These have brought me to my current dissertation project, which is on the concept of debate itself: its history within Western liberal thought, its transformations through social media platforms, its affinities with religious modes of engagement (conversion, testimony, charisma, and so on), and its role in both political communication and ethical self-making. Why do people engage in political debate beyond the stated goal of changing the minds of others? How does debate shape who they are and what they want to be, and what unexpected relationships and possibilities might emerge in pursuit of debate? Trained in anthropological theory and ethnographic methods, I aim to take people from all walks of life seriously with the respect and attention they deserve, to understand what people believe and why, and build towards the conditions that would enable us to imagine better futures together.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my spare time, I enjoy cooking, foraging, playing TTRPGs, contributing to [Wikipedia] (https://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia), and [shape-note singing] (https://www.fasola-la.org/). Recently I have been getting into using invasive species for food and crafts. I am in the process of moving things I have written about these things into this webpage; more to come!
