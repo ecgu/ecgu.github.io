@@ -6,7 +6,7 @@
     "email": "ecgu [at] uci [dot] edu",
     "phone": "",
     "url": "https://guxuanzhen16.github.io/",
-    "summary": "PhD Student in Anthropology at UC Irvine, studying political social media influencers and the concept of debate",
+    "summary": "PhD Student in Anthropology at UC Irvine, studying political social media influencers in the US",
     "location": {
       "address": "73000 Verano Rd S",
       "postalCode": "CA 92617",
@@ -29,7 +29,39 @@
       "url": "",
       "startDate": "2016-01-01",
       "endDate": "",
-      "summary": "I have worked as an in-house and freelance translator between English and Chinese (Simplified) for almost a decade, familiar with all steps of the professional localization process from proofreading to LQA. Through localization work, I have developed an eye to translating not just literal meaning but also the cultural context to enrich interpretations of the work while avoid miscommunication. I have localized multiple popular AAA and mobile games, and also have experience in subtitling."
+      "summary": "I have worked as an in-house and freelance translator between English and Chinese (Simplified) for near a decade. Rather than simply translating a message literally, my emphasis is on enriching interpretations of works by localizing them with different cultural contexts in mind.",
+      "highlights": [
+        "Translated, localized, proofread, and conducted LQA using industry standard CAT tools, specializing in video games",
+        "Localized multiple well-known AAA and mobile video games",
+        "Consulted and facilitated communication between Chinese and English-speaking divisions of companies to improve efficiency and avoid cultural misunderstandings."
+      ]
+    },
+    {
+      "name": "Northeastern University Communication Media and Marginalization Lab",
+      "location": "Boston, MA"
+      "position": "Research Assistant",
+      "url": "https://www.networkscienceinstitute.org/commlab",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Undergraduate research position studying and applying computational social science methods at a network science lab studying marginalization.",
+      "highlights": [
+        "Learned and assisted in data collection and network analysis for multiple studies",
+        "Coded for quantitative studies of political discourse on Twitter"
+      ]
+    },
+    {
+      "name": "Boston College Language Learning Lab",
+      "location": "Boston, MA"
+      "position": "Lab Manager Assistant",
+      "url": "https://ai4commsci.github.io/index.html",
+      "startDate": "2019-06-01",
+      "endDate": "2020-01-01",
+      "summary": "Six month full-time co-op internship assisting with multiple projects and operations at a cognitive science lab on language acquisition.",
+      "highlights": [
+        "Implemented designs for online MTurk experiments using Python and HTML+Javascript",
+        "Taught research assistants programming in R and Python for analysis of large data sets",
+        "Re-organized lab wiki and file management system for efficient workflow"
+      ]
     }
   ],
   "education": [
@@ -41,8 +73,6 @@
       "studyType": "PhD",
       "startDate": "2024-09-01",
       "endDate": "2031-06-01",
-      "score": "",
-      "courses": [""]
     },
     {
       "institution": "University of Chicago",
@@ -51,9 +81,7 @@
       "area": "Social Sciences",
       "studyType": "MA",
       "startDate": "2022-09-01",
-      "endDate": "2033-06-01",
-      "score": "",
-      "courses": [""]
+      "endDate": "2033-06-01"
     },
     {
       "institution": "Northeastern University",
@@ -62,9 +90,7 @@
       "area": "Linguistics and Sociocultural Anthropology",
       "studyType": "BS",
       "startDate": "2017-09-01",
-      "endDate": "2021-12-01",
-      "score": "",
-      "courses": ["Minor in Computer Science"]
+      "endDate": "2021-12-01"
     }
   ],
   "awards": [
@@ -72,8 +98,7 @@
       "title": "Long US-China Institute Graduate Research Grant",
       "date": "2024",
       "awarder": "UC Irvine Long Institute",
-      "url": "https://www.longinstitute.uci.edu/",
-      "summary": ""
+      "url": "https://www.longinstitute.uci.edu/"
     },
     {
       "title": "Cascading Mentorship Fellowship",
@@ -81,78 +106,53 @@
       "awarder": "UC Irvine School of Social Sciences",
       "url": "https://www.gradstudies.socsci.uci.edu/archive/archive_cascading_mentorship.php",
       "summary": "For organizing weekly peer-mentoring events for research development and foster a supportive and collaborative environment."
-    }
-  ],
-  "certificates": [
+    },
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    }
-  ],
-  "publications": [
+      "title": "Department Prize in Sociology and Anthropology",
+      "date": "2021",
+      "awarder": "Northeastern University"
+    },
     {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
+      "title": "Dean's List",
+      "date": "2018",
+      "awarder": "Northeastern University College of Science",
+      "summary": "Academic excellence recognition for 3 consecutive years"
     }
   ],
   "skills": [
     {
-      "name": "Programming",
+      "name": "Qualitative Methods",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Python", "R", "Javascript", "C++", "C#"]
+      "keywords": ["Participant-observation", "Interviews", "Focus groups"]
+    },
+    {
+      "name": "Data Science and Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Python (data science)", "R (data science)", "Javascript (data science, web development)", "C# (game development in Unity)"]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "Mandarin",
-      "fluency": "Near-native",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "Japanese",
-      "fluency": "Intermediate",
+      "fluency": "Professional Working Proficiency",
       "icon": ""
     },
     {
       "language": "Spanish",
-      "fluency": "Beginner",
+      "fluency": "Limited Working Proficiency",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "",
-      "icon": "",
-      "keywords": [""]
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "",
-      "summary": "",
-      "highlights": [""],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
     }
   ]
 }
