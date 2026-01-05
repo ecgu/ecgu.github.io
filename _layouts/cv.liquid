@@ -93,8 +93,8 @@ layout: default
                 <h3 class="card-title font-weight-medium">Grants and Awards</h3>
               {% when 'volunteer' %}
                 <h3 class="card-title font-weight-medium">Service and Volunteering</h3>
-            {% else %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+              {% else %}
+                <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             {% endcase %}
             <div>
               {% case data[0] %}
