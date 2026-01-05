@@ -9,7 +9,8 @@ profile:
   image: cliff.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Social Sciences Tower (SST) #643</p>
+    <p>顾翔海</p>
+    <p>Social Sciences Tower #643</p>
     <p>Irvine, CA 92697</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
