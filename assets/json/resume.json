@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Eric Gu",
+    "name": "Eric C Gu",
     "label": "PhD Student",
     "image": "",
     "email": "ecgu [at] uci [dot] edu",
     "phone": "",
     "url": "https://ecgu.github.io/",
-    "summary": "PhD Student in Anthropology at UC Irvine, studying political social media influencers in the US",
+    "summary": "PhD Student in Anthropology at UC Irvine, studying political social media influencers in the US.",
     "location": {
-      "address": "73000 Verano Rd S",
+      "address": "Social Sciences Tower (SST) #643",
       "postalCode": "CA 92617",
       "city": "Irvine",
       "countryCode": "US",
@@ -91,6 +91,17 @@
       "studyType": "BS",
       "startDate": "2017-09-01",
       "endDate": "2021-12-01"
+    }
+  ],
+  "volunteer":[
+    {
+      "organization": "The Diverse Educational Community and Doctoral Experience (DECADE)",
+      "location": "UC Irvine",
+      "position": "DECADE Student Representative",
+      "url": "https://grad.uci.edu/inclusion/decade/",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "I collaborate with other faculty and graduate student representatives to organize events that foster an inclusive environment in the department that is responsive to student concerns and needs. I also work with DECADE representatives from other departments to build interdisciplinary spaces at UC Irvine."
     }
   ],
   "awards": [
