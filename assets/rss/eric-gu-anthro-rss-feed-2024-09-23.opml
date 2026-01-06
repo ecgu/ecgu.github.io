@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Anthro Journal Sobscriptions</title>
+<ownerName>Eric Gu</ownerName>
+</head>
+<body>
+  <outline title="Journals" text="Journals">
+      <outline text="African Anthropologist" title="African Anthropologist" type="rss" 
+            xmlUrl="https://www.ajol.info/index.php/aa/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.ajol.info/index.php/aa"/>
+      <outline text="American Ethnologist" title="American Ethnologist" type="rss" 
+            xmlUrl="https://anthrosource.onlinelibrary.wiley.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=15481425" htmlUrl="https://anthrosource.onlinelibrary.wiley.com/journal/15481425?af=R"/>
+      <outline text="American Historical Review" title="American Historical Review" type="rss" 
+            xmlUrl="https://academic.oup.com/rss/site_5423/3284.xml" htmlUrl="http://academic.oup.com/ahr"/>
+      <outline text="American Journal of Sociology" title="American Journal of Sociology" type="rss" 
+            xmlUrl="https://www.journals.uchicago.edu/action/showFeed?type=etoc&amp;feed=rss&amp;jc=ajs" htmlUrl="https://www.journals.uchicago.edu/loi/ajs?af=R"/>
+      <outline text="American Political Thought" title="American Political Thought" type="rss" 
+            xmlUrl="https://www.journals.uchicago.edu/action/showFeed?type=etoc&amp;feed=rss&amp;jc=apt" htmlUrl="https://www.journals.uchicago.edu/loi/apt?af=R"/>
+      <outline text="American Quarterly" title="American Quarterly" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=13" htmlUrl="https://muse.jhu.edu/journal/13"/>
+      <outline text="American Religion" title="American Religion" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=825" htmlUrl="https://muse.jhu.edu/journal/825"/>
+      <outline text="American Studies" title="American Studies" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=460" htmlUrl="https://muse.jhu.edu/journal/460"/>
+      <outline text="Annual Review of Anthropology" title="Annual Review of Anthropology" type="rss" 
+            xmlUrl="https://www.annualreviews.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=anthro" htmlUrl="https://www.annualreviews.org/content/journals/anthro?TRACK=RSS"/>
+      <outline text="Anthropologica" title="Anthropologica" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=624" htmlUrl="https://muse.jhu.edu/journal/624" scanDelay="43200"/>
+      <outline text="Anthropological Forum" title="Anthropological Forum" type="rss" 
+            xmlUrl="https://www.tandfonline.com/feed/rss/canf20" htmlUrl="https://www.tandfonline.com/loi/canf20?af=R"/>
+      <outline text="Anthropological Journal of European Cultures" title="Anthropological Journal of European Cultures" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/ajec/ajec-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/ajec/ajec-overview.xml"/>
+      <outline text="Anthropological Linguistics" title="Anthropological Linguistics" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=436" htmlUrl="https://muse.jhu.edu/journal/436"/>
+      <outline text="Anthropological Notebooks" title="Anthropological Notebooks" type="rss" 
+            xmlUrl="https://anthropological-notebooks.zrc-sazu.si/Notebooks/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://anthropological-notebooks.zrc-sazu.si/Notebooks"/>
+      <outline text="Anthropological Quarterly" title="Anthropological Quarterly" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=10" htmlUrl="https://muse.jhu.edu/journal/10"/>
+      <outline text="Anthropological Theory " title="Anthropological Theory " type="rss" 
+            xmlUrl="https://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=ant&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/loi/anta?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+      <outline text="Anthropology in Action" title="Anthropology in Action" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/aia/aia-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/aia/aia-overview.xml"/>
+      <outline text="Anthropology Now" title="Anthropology Now" type="rss" 
+            xmlUrl="https://www.tandfonline.com/feed/rss/uann20" htmlUrl="https://www.tandfonline.com/loi/uann20?af=R"/>
+      <outline text="Anthropology of Consciousness" title="Anthropology of Consciousness" type="rss" 
+            xmlUrl="https://anthrosource.onlinelibrary.wiley.com/action/showFeed?jc=15563537&amp;type=etoc&amp;feed=rss" htmlUrl="https://anthrosource.onlinelibrary.wiley.com/journal/15563537?af=R"/>
+      <outline text="Anthropology of the Middle East" title="Anthropology of the Middle East" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/ame/ame-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/ame/ame-overview.xml"/>
+      <outline text="Anthropology Today" title="Anthropology Today" type="rss" 
+            xmlUrl="https://rai.onlinelibrary.wiley.com/action/showFeed?jc=14678322&amp;type=etoc&amp;feed=rss" htmlUrl="https://rai.onlinelibrary.wiley.com/journal/14678322?af=R"/>
+      <outline text="Approaching Religion" title="Approaching Religion" type="rss" 
+            xmlUrl="https://journal.fi/ar/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.fi/ar"/>
+      <outline text="Archaeological Research in Asia" title="Archaeological Research in Asia" type="rss" 
+            xmlUrl="https://rss.sciencedirect.com/publication/science/23522267" htmlUrl="https://www.sciencedirect.com/journal/archaeological-research-in-asia"/>
+      <outline text="Asian American Studies" title="Asian American Studies" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=86" htmlUrl="https://muse.jhu.edu/journal/86"/>
+      <outline text="Asian Anthropology" title="Asian Anthropology" type="rss" 
+            xmlUrl="https://www.tandfonline.com/feed/rss/raan20" htmlUrl="https://www.tandfonline.com/loi/raan20?af=R"/>
+      <outline text="Asian Archeology" title="Asian Archeology" type="rss" 
+            xmlUrl="https://link.springer.com/search.rss?new-search=true&amp;query=*&amp;content-type=Article&amp;sortBy=relevance&amp;search-within=Journal&amp;facet-journal-id=41826" htmlUrl="http://link.springer.com"/>
+      <outline text="China Review" title="China Review" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=621" htmlUrl="https://muse.jhu.edu/journal/621"/>
+      <outline text="China: An International Journal" title="China: An International Journal" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=267" htmlUrl="https://muse.jhu.edu/journal/267"/>
+      <outline text="Conflict and Society" title="Conflict and Society" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/conflict-and-society/conflict-and-society-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/conflict-and-society/conflict-and-society-overview.xml"/>
+      <outline text="Critical Historical Studies" title="Critical Historical Studies" type="rss" 
+            xmlUrl="https://www.journals.uchicago.edu/action/showFeed?type=etoc&amp;feed=rss&amp;jc=chs" htmlUrl="https://www.journals.uchicago.edu/loi/chs?af=R"/>
+      <outline text="Critical Research on Religion" title="Critical Research on Religion" type="rss" 
+            xmlUrl="https://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=crr&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/loi/crra?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+      <outline text="Critical Times » Feed" title="Critical Times » Feed" type="rss" 
+            xmlUrl="https://ctjournal.org/feed/" htmlUrl="https://ctjournal.org/"/>
+      <outline text="Critique of Anthropology " title="Critique of Anthropology " type="rss" 
+            xmlUrl="https://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=coa&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/loi/coaa?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+      <outline text="Cultural Anthropology" title="Cultural Anthropology" type="rss" 
+            xmlUrl="https://anthrosource.onlinelibrary.wiley.com/action/showFeed?jc=15481360&amp;type=etoc&amp;feed=rss" htmlUrl="https://anthrosource.onlinelibrary.wiley.com/journal/15481360?af=R"/>
+      <outline text="Cultural Anthropology and Ethnosemiotics" title="Cultural Anthropology and Ethnosemiotics" type="rss" 
+            xmlUrl="https://culturalanthropologyandethnosemiotics.wordpress.com/feed/" htmlUrl="https://culturalanthropologyandethnosemiotics.wordpress.com"/>
+      <outline text="Current Anthropology" title="Current Anthropology" type="rss" 
+            xmlUrl="https://www.journals.uchicago.edu/action/showFeed?type=etoc&amp;feed=rss&amp;jc=ca" htmlUrl="https://www.journals.uchicago.edu/loi/ca?af=R"/>
+      <outline text="Environment and Society" title="Environment and Society" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/environment-and-society/environment-and-society-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/environment-and-society/environment-and-society-overview.xml"/>
+      <outline text="Ethnography" title="Ethnography" type="rss" 
+            xmlUrl="https://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=etha&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/loi/etha?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+      <outline text="Ethnos" title="Ethnos" type="rss" 
+            xmlUrl="https://www.tandfonline.com/feed/rss/retn20" htmlUrl="https://www.tandfonline.com/loi/retn20?af=R"/>
+      <outline text="Focaal" title="Focaal" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/focaal/focaal-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/focaal/focaal-overview.xml"/>
+      <outline text="Global Ethnographic" title="Global Ethnographic" type="rss" 
+            xmlUrl="https://globalethnographic.com/index.php/category/articles/feed/" htmlUrl="https://globalethnographic.com/index.php/category/articles/"/>
+      <outline text="HAU: Journal of Ethnographic Theory" title="HAU: Journal of Ethnographic Theory" type="rss" 
+            xmlUrl="https://www.haujournal.org/index.php/hau/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.haujournal.org/index.php/hau"/>
+      <outline text="Himalaya" title="Himalaya" type="rss" 
+            xmlUrl="https://journals.ed.ac.uk/himalaya/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journals.ed.ac.uk/himalaya"/>
+      <outline text="Historical Materialism » Feed" title="Historical Materialism » Feed" type="rss" 
+            xmlUrl="https://www.historicalmaterialism.org/feed/" htmlUrl="https://www.historicalmaterialism.org/"/>
+      <outline text="History of Religions" title="History of Religions" type="rss" 
+            xmlUrl="https://www.journals.uchicago.edu/action/showFeed?type=etoc&amp;feed=rss&amp;jc=hr" htmlUrl="https://www.journals.uchicago.edu/loi/hr?af=R"/>
+      <outline text="Human Organization" title="Human Organization" type="rss" 
+            xmlUrl="https://www.tandfonline.com/feed/rss/rhum20" htmlUrl="https://www.tandfonline.com/loi/rhum20?af=R"/>
+      <outline text="International Journal of Anthropology and Ethnology" title="International Journal of Anthropology and Ethnology" type="rss" 
+            xmlUrl="https://ijae.springeropen.com/articles/most-recent/rss.xml" htmlUrl="https://ijae.springeropen.com"/>
+      <outline text="International Journal of Asia Pacific Studies" title="International Journal of Asia Pacific Studies" type="rss" 
+            xmlUrl="https://ijaps.usm.my/?feed=rss2" htmlUrl="https://ijaps.usm.my/"/>
+      <outline text="InVisible Culture" title="InVisible Culture" type="rss" 
+            xmlUrl="https://www.invisibleculturejournal.com/rss.xml" htmlUrl="https://www.invisibleculturejournal.com"/>
+      <outline text="Journal of American Studies" title="Journal of American Studies" type="rss" 
+            xmlUrl="https://www.cambridge.org/core/rss/product/id/6809E89819E4BB6F6C96CB367CB84811" htmlUrl="https://www.cambridge.org/core/journals/journal-of-american-studies/latest-issue"/>
+      <outline text="Journal of Anthropological Archaeology" title="Journal of Anthropological Archaeology" type="rss" 
+            xmlUrl="https://rss.sciencedirect.com/publication/science/02784165" htmlUrl="https://www.sciencedirect.com/journal/journal-of-anthropological-archaeology"/>
+      <outline text="Journal of Anthropological Films" title="Journal of Anthropological Films" type="rss" 
+            xmlUrl="https://boap.uib.no/index.php/jaf/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://boap.uib.no/index.php/jaf"/>
+      <outline text="Journal of Business Anthropology" title="Journal of Business Anthropology" type="rss" 
+            xmlUrl="https://rauli.cbs.dk/index.php/jba/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://rauli.cbs.dk/index.php/jba"/>
+      <outline text="Journal of Chinese Overseas" title="Journal of Chinese Overseas" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=331" htmlUrl="https://muse.jhu.edu/journal/331"/>
+      <outline text="Journal of Chinese Religions" title="Journal of Chinese Religions" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=734" htmlUrl="https://muse.jhu.edu/journal/734"/>
+      <outline text="Journal of Cold War Studies - Latest Articles" title="Journal of Cold War Studies - Latest Articles" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=43" htmlUrl="https://muse.jhu.edu/journal/43"/>
+      <outline text="Journal of Daoist Studies" title="Journal of Daoist Studies" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=711" htmlUrl="https://muse.jhu.edu/journal/711"/>
+      <outline text="Journal of Ecological Anthropology" title="Journal of Ecological Anthropology" type="rss" 
+            xmlUrl="https://digitalcommons.usf.edu/jea/recent.rss" htmlUrl="https://digitalcommons.usf.edu/jea"/>
+      <outline text="Journal of Korean Religions" title="Journal of Korean Religions" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=557" htmlUrl="https://muse.jhu.edu/journal/557"/>
+      <outline text="Journal of Legal Anthropology" title="Journal of Legal Anthropology" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/jla/jla-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/jla/jla-overview.xml"/>
+      <outline text="Journal of Material Culture" title="Journal of Material Culture" type="rss" 
+            xmlUrl="https://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=mcu&amp;type=etoc&amp;feed=rss" htmlUrl="https://journals.sagepub.com/loi/mcua?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+      <outline text="Journal of Religion and Popular Culture" title="Journal of Religion and Popular Culture" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=559" htmlUrl="https://muse.jhu.edu/journal/559"/>
+      <outline text="Journal of Sociolinguistics" title="Journal of Sociolinguistics" type="rss" 
+            xmlUrl="https://onlinelibrary.wiley.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=14679841" htmlUrl="https://onlinelibrary.wiley.com/journal/14679841?af=R"/>
+      <outline text="Journal of the Royal Anthropological Institute" title="Journal of the Royal Anthropological Institute" type="rss" 
+            xmlUrl="https://rai.onlinelibrary.wiley.com/action/showFeed?jc=14679655&amp;type=etoc&amp;feed=rss" htmlUrl="https://rai.onlinelibrary.wiley.com/journal/14679655?af=R"/>
+      <outline text="kritisk etnografi" title="kritisk etnografi" type="rss" 
+            xmlUrl="https://kritisketnografi.se/feed/" htmlUrl="https://kritisketnografi.se"/>
+      <outline text="Medical Anthropology Quarterly" title="Medical Anthropology Quarterly" type="rss" 
+            xmlUrl="https://anthrosource.onlinelibrary.wiley.com/action/showFeed?jc=15481387&amp;type=etoc&amp;feed=rss" htmlUrl="https://anthrosource.onlinelibrary.wiley.com/journal/15481387?af=R"/>
+      <outline text="Migration and Society" title="Migration and Society" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/migration-and-society/migration-and-society-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/migration-and-society/migration-and-society-overview.xml"/>
+      <outline text="Museum Worlds" title="Museum Worlds" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/museum-worlds/museum-worlds-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/museum-worlds/museum-worlds-overview.xml"/>
+      <outline text="NatureCulture" title="NatureCulture" type="rss" 
+            xmlUrl="https://www.natcult.net/feed/" htmlUrl="https://www.natcult.net"/>
+      <outline text="Oceania" title="Oceania" type="rss" 
+            xmlUrl="https://onlinelibrary.wiley.com/action/showFeed?jc=18344461&amp;type=etoc&amp;feed=rss" htmlUrl="https://onlinelibrary.wiley.com/journal/18344461?af=R"/>
+      <outline text="Political Theory" title="Political Theory" type="rss" 
+            xmlUrl="https://journals.sagepub.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=ptxa" htmlUrl="https://journals.sagepub.com/loi/ptxa?af=R"/>
+      <outline text="Positions: Asia Critique" title="Positions: Asia Critique" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=162" htmlUrl="https://muse.jhu.edu/journal/162"/>
+      <outline text="re:think" title="re:think" type="rss" 
+            xmlUrl="https://journals.ed.ac.uk/rethink/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journals.ed.ac.uk/rethink"/>
+      <outline text="Regional Studies of Russia, Eastern Europe, and Central Asia" title=" Table of Contents: Region: Regional Studies of Russia, Eastern Europe, and Central Asia Region: Regional Studies of Russia, Eastern Europe, and Central Asia" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=585" htmlUrl="https://muse.jhu.edu/journal/585"/>
+      <outline text="Religion and Society" title="Religion and Society" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/religion-and-society/religion-and-society-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/religion-and-society/religion-and-society-overview.xml"/>
+      <outline text="Representations" title="Representations" type="rss" 
+            xmlUrl="https://www.representations.org/feed/" htmlUrl="https://www.representations.org"/>
+      <outline text="Res: Anthropology and Aesthetics" title="Res: Anthropology and Aesthetics" type="rss" 
+            xmlUrl="https://www.journals.uchicago.edu/action/showFeed?type=etoc&amp;feed=rss&amp;jc=res" htmlUrl="https://www.journals.uchicago.edu/loi/res?af=R"/>
+      <outline text="Review of Japanese Culture and Society" title="Review of Japanese Culture and Society" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=604" htmlUrl="https://muse.jhu.edu/journal/604"/>
+      <outline text="Review of Religion and Chinese Society" title="Review of Religion and Chinese Society" type="rss" 
+            xmlUrl="https://brill.com/newsrss" htmlUrl="https://brill.com/applib/news"/>
+      <outline text="SAMAJ" title="SAMAJ" type="rss" 
+            xmlUrl="https://journals.openedition.org/samaj/backend?format=rssdocuments" htmlUrl="http://journals.openedition.org/samaj"/>
+      <outline text="Sibirica" title="Sibirica" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/sibirica/sibirica-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/sibirica/sibirica-overview.xml"/>
+      <outline text="Sites" title="Sites" type="rss" 
+            xmlUrl="https://sites.otago.ac.nz/Sites/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://sites.otago.ac.nz/Sites"/>
+      <outline text="Small Axe" title="Small Axe" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=185" htmlUrl="https://muse.jhu.edu/journal/185"/>
+      <outline text="Social Analysis" title="Social Analysis" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/social-analysis/social-analysis-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/social-analysis/social-analysis-overview.xml"/>
+      <outline text="Social Anthropology" title="Social Anthropology" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/saas/saas-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/saas/saas-overview.xml"/>
+      <outline text="Southern Anthropologist" title="Southern Anthropologist" type="rss" 
+            xmlUrl="https://egrove.olemiss.edu/southern_anthropologist/recent.rss" htmlUrl="https://egrove.olemiss.edu/southern_anthropologist"/>
+      <outline text="Suomen Antropologi" title="Suomen Antropologi" type="rss" 
+            xmlUrl="https://journal.fi/suomenantropologi/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.fi/suomenantropologi"/>
+      <outline text="Teaching Anthropology" title="Teaching Anthropology" type="rss" 
+            xmlUrl="https://teachinganthropology.org/feed/" htmlUrl="https://teachinganthropology.org"/>
+      <outline text="Technology and Culture" title="Technology and Culture" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=194" htmlUrl="https://muse.jhu.edu/journal/194" scanDelay="10080"/>
+      <outline text="The American Indian Quarterly" title="The American Indian Quarterly" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=2" htmlUrl="https://muse.jhu.edu/journal/2"/>
+      <outline text="The Asia-Pacific Journal: Japan Focus" title="The Asia-Pacific Journal: Japan Focus" type="rss" 
+            xmlUrl="https://apjjf.org/feed" htmlUrl="https://apjjf.org/"/>
+      <outline text="The Australian Journal of Anthropology" title="The Australian Journal of Anthropology" type="rss" 
+            xmlUrl="https://onlinelibrary.wiley.com/feed/17576547/most-recent" htmlUrl="https://onlinelibrary.wiley.com/journal/17576547?af=R"/>
+      <outline text="The Cambridge Journal of Anthropology" title="The Cambridge Journal of Anthropology" type="rss" 
+            xmlUrl="https://www.berghahnjournals.com/journalissuetocrss/journals/cja/cja-overview.xml" htmlUrl="https://www.berghahnjournals.com/view/journals/cja/cja-overview.xml"/>
+      <outline text="The Journal of American Culture" title="The Journal of American Culture" type="rss" 
+            xmlUrl="https://onlinelibrary.wiley.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=1542734x" htmlUrl="https://onlinelibrary.wiley.com/journal/1542734x?af=R"/>
+      <outline text="The Journal of Politics" title="The Journal of Politics" type="rss" 
+            xmlUrl="https://www.journals.uchicago.edu/action/showFeed?type=etoc&amp;feed=rss&amp;jc=jop" htmlUrl="https://www.journals.uchicago.edu/loi/jop?af=R"/>
+      <outline text="The Journal of Religion" title="The Journal of Religion" type="rss" 
+            xmlUrl="https://www.journals.uchicago.edu/action/showFeed?type=etoc&amp;feed=rss&amp;jc=jr" htmlUrl="https://www.journals.uchicago.edu/loi/jr?af=R"/>
+      <outline text="Transforming Anthropology" title="Transforming Anthropology" type="rss" 
+            xmlUrl="https://www.journals.uchicago.edu/action/showFeed?type=etoc&amp;feed=rss&amp;jc=tra" htmlUrl="https://www.journals.uchicago.edu/loi/tra?af=R"/>
+      <outline text="Twentieth Century China" title="Twentieth Century China" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=390" htmlUrl="https://muse.jhu.edu/journal/390"/>
+      <outline text="Visual Anthropology Review" title="Visual Anthropology Review" type="rss" 
+            xmlUrl="https://anthrosource.onlinelibrary.wiley.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=15487458" htmlUrl="https://anthrosource.onlinelibrary.wiley.com/journal/15487458?af=R"/>
+      <outline text=" American Speech" title=" American Speech" type="rss" 
+            xmlUrl="https://muse.jhu.edu/feeds/latest_articles?jid=16" htmlUrl="https://muse.jhu.edu/journal/16"/>
+  </outline>
+</opml>
