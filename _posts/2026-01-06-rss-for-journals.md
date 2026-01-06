@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using RSS Feeds for Anthropology Journals (And Where to Find Them)
+title: How to Use RSS Feeds for Anthropology Journals
 date: 2026-01-05 16:32:00
 description: What RSS feeds are, how to set them up to follow your favorite academic journals, and a rant about accessibility
 tags: academia anthropology howto rss
