@@ -4,7 +4,7 @@ permalink: /teaching/
 title: ta
 description: Materials, updates, and tips for courses that I TA for are available here
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <!-- pages/projects.md -->
