@@ -14,30 +14,83 @@ Unfortunately, the problem is that RSS feeds are not great for monetization, sin
 
 However, as our internet experiences are increasingly bogged down by advertisements, sensationalist news, AI slop, and whatever else recommendation algorithms decide to push your way, RSS is becoming a [refreshingly boring alternative](https://archive.is/20200208081939/https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/#selection-659.56-912.0). On one page, I can see all the journals I am interested in, without dealing with the particularities of each website or without fear of forgetting to save a journal in my bookmarks:
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/feedbrosample.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    The list of journals I follow are on the left, list of new articles in the center, and a preview of the article is on the right. Pretty neat!
+</div>
+
 Of course, I can also use RSS feeds to keep up with the news, follow blogs and new book releases from publishers and more:
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/otherfeed.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Here I can keep up with the job board for Anthropology Careers & Employment!
+</div>
 
 I'm not alone in advocating for a return to RSS in anthropology either: see [Grant Otsuki's guide to RSS feeds for anthropology blogs](https://www.gjotsuki.net/reconstructing-the-anthro-blogosphere-with-rss/), which makes a much more eloquent case for blogs and RSS as a way to build online community for anthropology and academia without relying on sites like Twitter.
 
 #### How to set up an RSS reader
-RSS is not an app, but a way of formatting data that can be displayed in different ways. This means you get to choose how to use RSS feeds in the "feed aggregator" or "content reader" of your choice, on whatever device or browser of your choice. My personal preference is [https://nodetics.com/feedbro/](FeedBro Reader for Firefox), which is free and can be easily accessed through Firefox on my laptop (you can use it on Chrome too). It also comes with a plug-in that searches for RSS feeds on any site you're on, although it doesn't work too well for academic journal indexing sites. Other options include [NetNewsWire](https://netnewswire.com/) (iOS; free and [open-source](https://itsfoss.com/what-is-foss/)), [Feedly](https://feedly.com/) (web, Android, and iOS; requires an account and has some AI stuff), and [Inoreader](https://www.inoreader.com/) (Android and IOS; requires an account and has a free tier). Once you have one downloaded, you're ready to add feeds to it! 
+RSS is not an app, but a way of formatting data that can be displayed in different ways. This means you get to choose how to use RSS feeds in the "feed aggregator" or "content reader" of your choice, on whatever device or browser of your choice. My personal preference is [https://nodetics.com/feedbro/](FeedBro Reader for Firefox), which is free and can be easily accessed through Firefox on my laptop (you can use it on Chrome too). It also comes with a plug-in that searches for RSS feeds on any site you're on, although it doesn't work too well for academic journal indexing sites. Other options include [NetNewsWire](https://netnewswire.com/) (iOS; free and [open-source](https://itsfoss.com/what-is-foss/)), [Feedly](https://feedly.com/) (web, Android, and iOS; requires an account and has some AI stuff), and [Inoreader](https://www.inoreader.com/) (Android and IOS; requires an account and has a free tier). Once you have one downloaded, you're ready to add feeds to it!
 
 #### How to add feeds to an RSS reader
-If you've ever seen this orange icon on a website before, that's the RSS icon! Click on it to get the link to the RSS feed, which in the raw looks like this:
-
-This looks daunting, but you actually don't need to care about this stuff at all. Just copy-paste the link into your reader of choice and you'll be good to go.
+If you've ever seen this orange icon on a website before, that's the RSS icon! Click on it to get the link to the RSS feed. Just copy-paste the link into your reader of choice and you'll be good to go.
 
 Some sites like Project Muse have a [neat list of RSS feeds for all the journals that they host](https://muse.jhu.edu/feeds/list_feeds?type=article):
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/musefeednarrow.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Careful, collecting feeds can be like collecting books for the shelf...
+</div>
+
 For others, they might be on the side of the main page for the journal:
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/critrss.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 Some of them, while keeping RSS feeds in name, go through obtuse lengths to hide links to them. This includes in the University of Chicago:
 
-And Bergahn:
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/chicagorss.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    I wonder why the icon is in the About section...
+</div>
 
-Where could it be?
+And Berghahn:
 
-There it is, at the bottom of the sidebar!
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/bergahnwhere.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Now where could it be?
+</div>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/bergahnreveal.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    There it is, at the bottom of the sidebar!
+</div>
 
 There are some journals and hosting websites that disappointingly don't seem to provide any RSS feed at all, so you'll have to just follow them the old fashioned way. The wall of shames includes:
 - All of Duke University Press (*Public Culture*, *Social Text*, *Boundary 2*, etc)
