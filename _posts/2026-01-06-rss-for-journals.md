@@ -39,7 +39,7 @@ I'm not alone in advocating for a return to RSS in anthropology either: see [Gra
 
 #### How to set up an RSS reader
 
-RSS is not an app, but a way of formatting data that can be displayed in different ways. This means you get to choose how to use RSS feeds in the "feed aggregator" or "content reader" of your choice, on whatever device or browser of your choice. My personal preference is [https://nodetics.com/feedbro/](FeedBro Reader for Firefox), which is free and can be easily accessed through Firefox on my laptop (you can use it on Chrome too). It also comes with a plug-in that searches for RSS feeds on any site you're on, although it doesn't work too well for academic journal indexing sites. Other options include [NetNewsWire](https://netnewswire.com/) (iOS; free and [open-source](https://itsfoss.com/what-is-foss/)), [Feedly](https://feedly.com/) (web, Android, and iOS; requires an account and has some AI stuff), and [Inoreader](https://www.inoreader.com/) (Android and IOS; requires an account and has a free tier). Once you have one downloaded, you're ready to add feeds to it!
+RSS is not an app, but a way of formatting data that can be displayed in different ways. This means you get to choose how to use RSS feeds in the "feed aggregator" or "content reader" of your choice, on whatever device or browser of your choice. My personal preference is [FeedBro Reader for Firefox](https://nodetics.com/feedbro/), which is free and can be easily accessed through Firefox on my laptop (you can use it on Chrome too). It also comes with a plug-in that searches for RSS feeds on any site you're on, although it doesn't work too well for academic journal indexing sites. Other options include [NetNewsWire](https://netnewswire.com/) (iOS; free and [open-source](https://itsfoss.com/what-is-foss/)), [Feedly](https://feedly.com/) (web, Android, and iOS; requires an account and has some AI stuff), and [Inoreader](https://www.inoreader.com/) (Android and IOS; requires an account and has a free tier). Once you have one downloaded, you're ready to add feeds to it!
 
 #### How to add feeds to an RSS reader
 
@@ -49,7 +49,7 @@ Some sites like Project Muse have a [neat list of RSS feeds for all the journals
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/musefeednarrow.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/musefeedsnarrow.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
