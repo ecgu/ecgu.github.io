@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-using-rss-feeds-for-anthropology-journals-and-where-to-find-them",
+        },{id: "post-how-to-use-rss-feeds-for-anthropology-journals",
         
-          title: "Using RSS Feeds for Anthropology Journals (And Where to Find Them)",
+          title: "How to Use RSS Feeds for Anthropology Journals",
         
         description: "What RSS feeds are, how to set them up to follow your favorite academic journals, and a rant about accessibility",
         section: "Posts",
