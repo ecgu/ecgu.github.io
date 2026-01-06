@@ -61,7 +61,7 @@ ninja.data = [{
           title: 'anthro 2a introduction to sociocultural anthropology',
           description: "Winter 2026",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/anth2a_winter2026/";
             },},{
         id: 'social-cv',
         title: 'CV',
