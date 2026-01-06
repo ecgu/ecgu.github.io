@@ -64,7 +64,7 @@ For others, they might be on the side of the main page for the journal:
     </div>
 </div>
 
-Some of them, while keeping RSS feeds in name, go through obtuse lengths to hide links to them. This includes in the University of Chicago:
+Some of them, while keeping RSS feeds in name, go through obtuse lengths to hide links to them. This includes the University of Chicago:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
