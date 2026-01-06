@@ -24,7 +24,7 @@ However, as our internet experiences are increasingly bogged down by advertiseme
     The list of journals I follow are on the left, list of new articles in the center, and a preview of the article is on the right. Pretty neat!
 </div>
 
-Of course, I can also use RSS feeds to keep up with the news, follow blogs and new book releases from publishers and more:
+Of course, I can also use RSS feeds to keep up with the news, follow blogs and subreddits, keep up new book releases from publishers, and more:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
