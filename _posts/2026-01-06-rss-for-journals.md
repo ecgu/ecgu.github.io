@@ -93,10 +93,11 @@ And Berghahn:
 </div>
 
 There are some journals and hosting websites that disappointingly don't seem to provide any RSS feed at all, so you'll have to just follow them the old fashioned way. The wall of shames includes:
-- All of Duke University Press (*Public Culture*, *Social Text*, *Boundary 2*, etc)
-- All of University of California Press (although *Representations* has its own)
-- *The Journal of American Ethnology*; Strangely, *Cultural Anthropology* which is also hosted by AnthroSource has an RSS feed in plain sight, but American Ethnology doesn't!
+
+- All of Duke University Press (_Public Culture_, _Social Text_, _Boundary 2_, etc)
+- All of University of California Press (although _Representations_ has its own)
+- _The Journal of American Ethnology_; Strangely, _Cultural Anthropology_ which is also hosted by AnthroSource has an RSS feed in plain sight, but American Ethnology doesn't!
 
 If this changes or you find their RSS feeds somewhere, feel free to email me!
 
-You can also find compilations of RSS feeds others have already made in an OPML file format. Simply download the file and import it into your reader. My list of RSS feeds for academic journals, which revolve around anthropology, media studies, and Asian area studies is here. You can also add or delete feeds to your liking; if you make a list of your own for other disciplines or subfields, don't hesitate to share it with others! If you run into technical issues, I'm always open to meet new people, so don't be afraid to drop a message to me either! Good luck!
+You can also find compilations of RSS feeds others have already made in an OPML file format. Simply download the file and import it into your reader. My list of RSS feeds for academic journals, which revolve around anthropology, religion, and American and Asian area studies is <a href="/assets/rss/eric-gu-anthro-rss-feed-2024-09-23.opml" download="eric-gu-anthro-rss-feed-2024-09-23.opml">here to download</a>. You can also add or delete feeds to your liking; if you make a list of your own for other disciplines or subfields, don't hesitate to share it with others! If you run into technical issues, I'm always open to meet new people, so don't be afraid to drop a message to me either! Good luck!
