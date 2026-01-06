@@ -78,7 +78,7 @@ Some of them, while keeping RSS feeds in name, go through obtuse lengths to hide
 And Berghahn:
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-12 col-md-6 mx-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/bergahnwhere.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
