@@ -48,7 +48,7 @@ If you've ever seen this orange icon on a website before, that's the RSS icon! C
 Some sites like Project Muse have a [neat list of RSS feeds for all the journals that they host](https://muse.jhu.edu/feeds/list_feeds?type=article):
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-12 col-md-6 mx-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/musefeedsnarrow.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -78,7 +78,7 @@ Some of them, while keeping RSS feeds in name, go through obtuse lengths to hide
 And Berghahn:
 
 <div class="row mt-3">
-    <div class="col-12 col-md-6 mx-auto mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/bergahnwhere.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -87,7 +87,7 @@ And Berghahn:
 </div>
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-12 col-md-6 mx-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/bergahnreveal.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
