@@ -7,7 +7,7 @@ first_name: Eric
 middle_name: Chen
 last_name: Gu
 contact_note: >
-  Feel free to reach out to me by email
+  Feel free to email me!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student at UC Irvine
 footer_text: >
@@ -85,7 +85,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Other # blog_name will be displayed in your blog page
+blog_name: Other Writings # blog_name will be displayed in your blog page
 blog_description: Random non-academic writings, unrelated to any institutions or employers of mine.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -122,12 +122,12 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  - name:
+    rss_url:
+  - name:
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url:
+        published_date:
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -198,7 +198,6 @@ exclude:
   - _pages/projects.md
   - _pages/repositories.md
   - _pages/about_einstein.md
-  - _pages/blog.md
   - _pages/publications.md
 
 keep_files:
