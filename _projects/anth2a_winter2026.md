@@ -1,7 +1,7 @@
 ---
 layout: page
-title: anthro 2a introduction to sociocultural anthropology
-description: Winter 2026
+title: Introduction to Sociocultural Anthropology
+description: ANTHRO2A Winter 2026
 img: assets/img/introsocanth.jpg
 importance: 1
 category: uci
