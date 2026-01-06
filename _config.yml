@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Other Writings # blog_name will be displayed in your blog page
-blog_description: Random non-academic writings, unrelated to any institutions or employers of mine.
+blog_description: Random non-academic writings, unrelated to any institutions or employers of mine. I am currently moving over stuff from my old website here!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
