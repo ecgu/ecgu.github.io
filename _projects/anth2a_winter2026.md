@@ -8,7 +8,7 @@ category: uci
 related_publications: false
 ---
 
-This is a page for Introduction to Sociocultural Anthropology (ANTH2A) with James Egan. Here you will find information and materials that are necessary for the course, but will be helpful if you want a good score and develop skills that will help you through your college experience and beyond. If the information is not on Canvas, it will be here. More will be added in the coming weeks!
+This is a page for Introduction to Sociocultural Anthropology (ANTH2A) with James Egan. Here you will find information and materials that are not required for the course, but will be helpful if you want a good score and develop skills that will help you through your college experience and beyond. If the information is not on Canvas, it will be here. More will be added in the coming weeks!
 
 My email: ecgu [at] uci [dot] edu
 
