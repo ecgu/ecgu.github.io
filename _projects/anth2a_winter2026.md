@@ -17,12 +17,12 @@ Teaching section: Tuesday 5-7 PM, HICF 100L
 Office hours: Appointment by email
 
 <div class="row mt-3">
-    <div class="col-12 col-md-6 col-lg-4 mx-auto mt-3 mt-md-0">
+    <div class="col-12 col-md-8 col-lg-6 mx-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/introsocanth.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    A Somoan canoe (va'a) in Newport Bay. In the 1960s at the height of American counterculture, UC Irvine had an experimental program called the Social Sciences Farm which involved inviting people from around the world to demonstrate and teach their crafts. This canoe is still displayed in the Social Science Tower today. What do you think the goals and ideas from that moment in history that made this event possible? What were it's problems and limitations?
+    A Somoan canoe (va'a) in Newport Bay. In the 1960s at the height of American counterculture, UC Irvine had an experimental program called the [Social Sciences Farm](https://calisphere.org/collections/192/) which involved inviting people from around the world to demonstrate and teach their crafts. This canoe is still displayed in the Social Science Tower today. What do you think the goals and ideas from that moment in history that made this event possible? What were it's problems and limitations?
 </div>
 
 #### Teaching Section
