@@ -17,7 +17,7 @@ Teaching section: Tuesday 5-7 PM, HICF 100L
 Office hours: Appointment by email
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-12 col-md-6 col-lg-4 mx-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/introsocanth.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
