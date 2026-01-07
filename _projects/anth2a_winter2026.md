@@ -22,7 +22,7 @@ This is a page for Introduction to Sociocultural Anthropology (ANTH2A) with Jame
     </div>
 </div>
 <div class="caption">
-    A Somoan canoe (va'a) in Newport Bay. In the 1960s at the height of American counterculture, UC Irvine had an experimental program called the <a href="[url](https://calisphere.org/collections/192/)">Social Sciences Farm</a> which involved inviting people from around the world to demonstrate and teach their crafts. This canoe is still displayed in the Social Science Tower today. What do you think the goals and ideas from that moment in history that made this event possible? What were it's problems and limitations?
+    A Somoan canoe (va'a) in Newport Bay. In the 1960s at the height of American counterculture, UC Irvine had an experimental program called the <a href="[https://calisphere.org/collections/192/]">Social Sciences Farm</a> which involved inviting people from around the world to demonstrate and teach their crafts. This canoe is still displayed in the Social Science Tower today. What do you think the goals and ideas from that moment in history that made this event possible? What were it's problems and limitations?
 </div>
 
 #### Teaching Section
