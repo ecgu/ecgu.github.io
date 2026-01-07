@@ -39,7 +39,7 @@ Office hours are a space where you can ask me for any academic or professional a
 
 #### On Scantrons
 
-The tests and essays for this course require the use of scantron forms. These forms can be unintuitive to use these days, so if it is your first time taking a test with one, it'd be helpful to check out this guide of what to look out for. This may save a lot of potential headache for you and the test graders.
+The tests and essays for this course require the use of scantron forms. These forms can be unintuitive to use these days, so if it is your first time taking a test with one, it'd be helpful to look up on YouTube how to fill one in and what common mistakes are. This may save a lot of potential headache for you and the test graders.
 
 #### Suggestions
 
