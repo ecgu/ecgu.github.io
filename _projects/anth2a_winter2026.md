@@ -38,11 +38,14 @@ If you would like to speak one-on-one with me, I will have office hours that by 
 Office hours are a space where you can ask me for any academic or professional advice: not just questions about the course, but also advice on resumes, applying to grad school, finding resources for disability assistance on campus, concerns about student or faculty conduct, and more. Please don't hesitate to reach out!
 
 #### Weeks
+
 ##### Week 2
-- Slides from today can be found here.
+
+- Slides from today can be found <a href="/assets/pdf/gu_eric_anth2a_ta_week2_1132026.pdf" download="gu_eric_anth2a_ta_week2_1132026.pdf">here</a>.
 - On Brazil and Japan in the study guide: see the textbook for more info on their relevance to the course.
 
 ##### Week 3
+
 - We will go over some of the key terms from the lectures so far and practice writing from one of the essay prompts.
 
 #### On Scantrons
