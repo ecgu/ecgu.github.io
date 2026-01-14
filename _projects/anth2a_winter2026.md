@@ -8,7 +8,7 @@ category: uci
 related_publications: false
 ---
 
-_Last updated_: 01-06-2026
+_Last updated_: 01-13-2026
 
 This is a page for Introduction to Sociocultural Anthropology (ANTH2A) with James Egan. I am one of six TAs that are here to ensure that you succeed in this course. Here you will find information and materials that are not required for the course, but will be helpful if you want a good score and develop skills that will help you through your college experience and beyond. If the information is not on Canvas, it will be here. More will be added in the coming weeks!
 
@@ -43,6 +43,7 @@ Office hours are a space where you can ask me for any academic or professional a
 
 - Slides from today can be found <a href="/assets/pdf/gu_eric_anth2a_ta_week2_1132026.pdf" download="gu_eric_anth2a_ta_week2_1132026.pdf">here</a>.
 - On Brazil and Japan in the study guide: see the textbook for more info on their relevance to the course.
+- NOTE: Today I said that Scantron forms are not required; this was wrong. Tests will require a Scantron Form F 288 PAR L, a No. 2 pencil, and a pen. Sorry!
 
 ##### Week 3
 
