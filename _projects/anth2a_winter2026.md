@@ -37,6 +37,14 @@ If you would like to speak one-on-one with me, I will have office hours that by 
 
 Office hours are a space where you can ask me for any academic or professional advice: not just questions about the course, but also advice on resumes, applying to grad school, finding resources for disability assistance on campus, concerns about student or faculty conduct, and more. Please don't hesitate to reach out!
 
+#### Weeks
+##### Week 2
+- Slides from today can be found here.
+- On Brazil and Japan in the study guide: see the textbook for more info on their relevance to the course.
+
+##### Week 3
+- We will go over some of the key terms from the lectures so far and practice writing from one of the essay prompts.
+
 #### On Scantrons
 
 The tests and essays for this course require the use of scantron forms. These forms can be unintuitive to use these days, so if it is your first time taking a test with one, it'd be helpful to look up on YouTube how to fill one in and what common mistakes are. This may save a lot of potential headache for you and the test graders.
