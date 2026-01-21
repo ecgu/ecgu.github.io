@@ -47,11 +47,11 @@ Office hours are a space where you can ask me for any academic or professional a
 
 ##### Week 3
 
-- We will go over some of the key terms from the lectures so far and practice writing from one of the essay prompts.
+- We went over the essay prompt on social race versus scientific racism. Some common mistakes included not explicitly defining social race and scientific racism, and forgetting to list at least two examples; if the prompt says to provide example<em>s</em>, remember to give more than one! It is better to use the examples given by Egan in class or in the textbook, since they more obviously connect to your argument. Remember also to not worry about essay structure; don't spend too much time on filling out paragraphs if you haven't laid out the basic definitions yet. Good luck! I will bring chocolate and pastries the week after the midterm in celebration.
 
 #### On Scantrons
 
-The tests and essays for this course require the use of scantron forms. These forms can be unintuitive to use these days, so if it is your first time taking a test with one, it'd be helpful to look up on YouTube how to fill one in and what common mistakes are. This may save a lot of potential headache for you and the test graders.
+The tests and essays for this course require the use of scantron forms, specifically the <a href="https://uci.bncollege.com/Course-Required/Testing-Forms/Scantrons--Blue-Books/Scantron-Forms/Scantron-Form-F-288-PAR-L/p/440847">Scantron Form F 288 PAR L</a>. You can buy them at the bookstore, or get one sheet for free from the <a href="https://soar.uci.edu/">SOAR office</a>. These forms can be unintuitive to use these days, so if it is your first time taking a test with one, it'd be helpful to look up on YouTube how to fill one in and what common mistakes are. This may save a lot of potential headache for you and the test graders.
 
 #### Suggestions
 
