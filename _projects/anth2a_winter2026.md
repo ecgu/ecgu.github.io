@@ -8,7 +8,7 @@ category: uci
 related_publications: false
 ---
 
-_Last updated_: 01-13-2026
+_Last updated_: 02-01-2026
 
 This is a page for Introduction to Sociocultural Anthropology (ANTH2A) with James Egan. I am one of six TAs that are here to ensure that you succeed in this course. Here you will find information and materials that are not required for the course, but will be helpful if you want a good score and develop skills that will help you through your college experience and beyond. If the information is not on Canvas, it will be here. More will be added in the coming weeks!
 
@@ -48,6 +48,15 @@ Office hours are a space where you can ask me for any academic or professional a
 ##### Week 3
 
 - We went over the essay prompt on social race versus scientific racism. Some common mistakes included not explicitly defining social race and scientific racism, and forgetting to list at least two examples; if the prompt says to provide example<em>s</em>, remember to give more than one! It is better to use the examples given by Egan in class or in the textbook, since they more obviously connect to your argument. Remember also to not worry about essay structure; don't spend too much time on filling out paragraphs if you haven't laid out the basic definitions yet. Good luck! I will bring chocolate and pastries the week after the midterm in celebration.
+
+##### Week 4
+
+- The day of the exam, so there is no teaching section. Good luck!
+
+##### Week 5
+
+- We will go over the broader concepts of the upcoming modules to best prepare for the exam.
+- We will also go over some common mistakes in the essays from the first midterm.
 
 #### On Scantrons
 
