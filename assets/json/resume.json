@@ -95,6 +95,15 @@
   ],
   "volunteer": [
     {
+      "organization": "Graduate-Undergraduate Mentoring Program (GUMP)",
+      "location": "UC Irvine",
+      "position": "GUMP Mentor",
+      "url": "https://www.anthropology.uci.edu/undergrad/major.php",
+      "startDate": "2026-01-01",
+      "endDate": "",
+      "summary": "GUMP pairs a graduate student with an undergraduate majoring in anthropology to provide one-on-one mentorship for achieving academic goals and preparing for grad school or exploring future career options."
+    },
+    {
       "organization": "The Diverse Educational Community and Doctoral Experience (DECADE)",
       "location": "UC Irvine",
       "position": "DECADE Student Representative",
@@ -160,6 +169,11 @@
       "fluency": "Professional Working Proficiency",
       "icon": ""
     },
+    {
+      "language": "Korean",
+      "fluency": "Limited Working Proficiency",
+      "icon": ""
+    }
     {
       "language": "Spanish",
       "fluency": "Limited Working Proficiency",
