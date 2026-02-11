@@ -55,8 +55,11 @@ Office hours are a space where you can ask me for any academic or professional a
 
 ##### Week 5
 
-- We will go over the broader concepts of the upcoming modules to best prepare for the exam.
-- We will also go over some common mistakes in the essays from the first midterm.
+- We went over the broader concepts of the upcoming modules to best prepare for the exam, and some common mistakes in the essays from the first midterm.
+
+##### Week 6
+
+- We played Jeapordy based on the study guide materials on kinship and production. Slides from the game are <a href="/assets/pdf/jeapordy_anthro2a_section2_eric_gu.pptx" download="jeapordy_anthro2a_section2_eric_gu.pptx">here</a>.
 
 #### On Scantrons
 
