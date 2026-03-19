@@ -8,9 +8,11 @@ category: uci
 related_publications: false
 ---
 
-_Last updated_: 02-11-2026
+_Last updated_: 03-19-2026
 
-This is a page for Introduction to Sociocultural Anthropology (ANTH2A) with James Egan. I am one of six TAs that are here to ensure that you succeed in this course. Here you will find information and materials that are not required for the course, but will be helpful if you want a good score and develop skills that will help you through your college experience and beyond. If the information is not on Canvas, it will be here. More will be added in the coming weeks!
+This is a page for Introduction to Sociocultural Anthropology (ANTH2A) with James Egan. I am one of six TAs that are here to ensure that you succeed in this course. Here you will find information and materials that are not required for the course, but will be helpful if you want a good score and develop skills that will help you through your college experience and beyond. If the information is not on Canvas, it will be here.
+
+My general advice for this course is that the lectures are extremely important to attend. Make a document with all the exam keyterms in it and fill in the blanks as the professor gives the lecture. This will determine 90% of your grade. The assigned readings are then secondary in importance, then the textbook. Attending teaching sections is a supplement, but it cannot substitute the actual lectures themselves, since so much of what is quizzed is relevant to things mentioned in lecture only.
 
 ##### My email: ecgu [at] uci [dot] edu
 
@@ -61,10 +63,18 @@ Office hours are a space where you can ask me for any academic or professional a
 
 - We played Jeapordy based on the study guide materials on kinship and production. Slides from the game are <a href="/assets/pdf/jeapordy_anthro2a_section2_eric_gu.pptx" download="jeapordy_anthro2a_section2_eric_gu.pptx">here</a>.
 
+##### Week 7
+
+- We did essay practice for midterm 2 (and got the right prompt for the exam essay again!)
+
+##### Week 8
+
+- We went over the non-book related essays and concepts.
+
+##### Week 9
+
+- We went over the book related essays and concepts. Good luck on the finals!
+
 #### On Scantrons
 
 The tests and essays for this course require the use of scantron forms, specifically the <a href="https://uci.bncollege.com/Course-Required/Testing-Forms/Scantrons--Blue-Books/Scantron-Forms/Scantron-Form-F-288-PAR-L/p/440847">Scantron Form F 288 PAR L</a>. You can buy them at the bookstore, or get one sheet for free from the <a href="https://soar.uci.edu/">SOAR office</a>. These forms can be unintuitive to use these days, so if it is your first time taking a test with one, it'd be helpful to look up on YouTube how to fill one in and what common mistakes are. This may save a lot of potential headache for you and the test graders.
-
-#### Suggestions
-
-If you have suggestions for what else to do during teaching sections or anything else interesting that is related to the course that you'd wish to share with me or others in the class, let me know! Any other helpful resources and links you find will be put here.
