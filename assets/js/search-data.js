@@ -62,6 +62,11 @@ ninja.data = [{
           description: "ANTHRO2A Winter 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/anth2a_winter2026/";
+            },},{id: "projects-introduction-to-biological-anthropology",
+          title: 'Introduction to Biological Anthropology',
+          description: "ANTHRO2B Spring 2026",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/anth2b_spring2026/";
             },},{
         id: 'social-cv',
         title: 'CV',
