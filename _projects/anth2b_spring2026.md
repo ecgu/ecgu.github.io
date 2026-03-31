@@ -2,7 +2,7 @@
 layout: page
 title: Introduction to Biological Anthropology
 description: ANTHRO2B Spring 2026
-img: assets/img/introsocanth.jpg
+img: assets/img/Great_Chain_of_Being_2.png
 importance: 2
 category: uci
 related_publications: false
@@ -22,11 +22,11 @@ My general advice for this course is that the lectures are extremely important t
 
 <div class="row mt-3">
     <div class="col-12 col-md-8 col-lg-6 mx-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/introsocanth.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/Great_Chain_of_Being_2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    A Somoan canoe (va'a) in Newport Bay. In the 1960s at the height of American counterculture, UC Irvine had an experimental program called the <a href="https://calisphere.org/collections/192/">Social Sciences Farm</a> which involved inviting people from around the world to demonstrate and teach their crafts. This canoe is still displayed in the Social Science Tower today. What do you think the goals and ideas from that moment in history that made this event possible? What were it's problems and limitations?
+    A diagram of the Great Chain of Being. What ideas of life and the world are at work here? How are contemporary views different or similar?
 </div>
 
 #### Teaching Section
