@@ -115,10 +115,10 @@
   ],
   "awards": [
     {
-      "title": "Long US-China Institute Graduate Research Grant",
-      "date": "2024",
-      "awarder": "UC Irvine Long Institute",
-      "url": "https://www.longinstitute.uci.edu/"
+      "title": "Kugelman Citizen Peacebuilding Research Fellowship",
+      "date": "2026",
+      "awarder": "UC Irvine Center for Citizen Peacebuilding",
+      "url": "https://www.peacebuilding.uci.edu/research/kugelmanfellows.php"
     },
     {
       "title": "Cascading Mentorship Fellowship",
@@ -126,6 +126,12 @@
       "awarder": "UC Irvine School of Social Sciences",
       "url": "https://www.gradstudies.socsci.uci.edu/archive/archive_cascading_mentorship.php",
       "summary": "For organizing weekly peer-mentoring events for research development and foster a supportive and collaborative environment."
+    },
+    {
+      "title": "Long US-China Institute Graduate Research Grant",
+      "date": "2024",
+      "awarder": "UC Irvine Long Institute",
+      "url": "https://www.longinstitute.uci.edu/"
     },
     {
       "title": "Department Prize in Sociology and Anthropology",
@@ -170,7 +176,7 @@
       "icon": ""
     },
     {
-      "language": "Korean",
+      "language": "Hokkien",
       "fluency": "Limited Working Proficiency",
       "icon": ""
     },
