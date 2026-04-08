@@ -45,6 +45,14 @@ Office hours are a space where you can ask me for any academic or professional a
 
 - Slides from today can be found <a href="/assets/pdf/gu_eric_anth2b_ta_week2_04072026.pdf" download="gu_eric_anth2b_ta_week2_04072026.pdf">here</a>.
 
+##### Week 3
+
+- We will discuss the homework assignment on molecular biology.
+
+##### Week 4
+
+- Note: I will swap with TA Amaan's section on Friday for this week. I will teach Amaan's usual section on Friday, and Amaan will stand in for me on Wednesday. We will go back to normal times next week.
+
 #### On Scantrons
 
 The tests and essays for this course require the use of scantron forms, specifically the <a href="https://uci.bncollege.com/Course-Required/Testing-Forms/Scantrons--Blue-Books/Scantron-Forms/Scantron-Form-F-288-PAR-L/p/440847">Scantron Form F 288 PAR L</a>. You can buy them at the bookstore, or get one sheet for free from the <a href="https://soar.uci.edu/">SOAR office</a>. These forms can be unintuitive to use these days, so if it is your first time taking a test with one, it'd be helpful to look up on YouTube how to fill one in and what common mistakes are. This may save a lot of potential headache for you and the test graders.
