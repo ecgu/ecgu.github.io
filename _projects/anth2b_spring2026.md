@@ -51,7 +51,23 @@ Office hours are a space where you can ask me for any academic or professional a
 
 ##### Week 4
 
-- Note: I will swap with TA Amaan's section on Friday for this week. I will teach Amaan's usual section on Friday, and Amaan will stand in for me on Wednesday. We will go back to normal times next week.
+- Note: I will swap with TA Amaan's section on Friday for this week. I will teach Amaan's usual section on Friday, and Amaan will stand in for me on Wednesday. We will go back to normal times next week. We went over Homework 1.
+
+##### Week 5
+
+- We had a Kahoot quiz for Midterm 1.
+
+##### Week 6
+
+- We had no section because the Midterm was this week.
+
+##### Week 7
+
+- We briefly reviewed questions from Midterm 1.
+
+##### Week 8
+
+- We had a Jeapordy game in preperation for the Finals, see the slides here for review <a href="/assets/pdf/gu_eric_anth2b_ta_week8_jeapardy.pdf" download="gu_eric_anth2b_ta_week8_jeapardy.pdf">here</a>. Congrats to KSL for winning!
 
 #### On Scantrons
 
