@@ -8,7 +8,7 @@ category: uci
 related_publications: false
 ---
 
-_Last updated_: 04-308-2026
+_Last updated_: 05-25-2026
 
 This is a page for Introduction to Biological Anthropology (ANTH2A) with James Egan. I am one of four TAs that are here to ensure that you succeed in this course. Here you will find information and materials that are not required for the course, but will be helpful if you want a good score and develop skills that will help you through your college experience and beyond. If the information is not on Canvas, it will be here. Summaries of previous teaching sections and what to expect later will be posted here too.
 
