@@ -8,7 +8,7 @@ category: uci
 related_publications: false
 ---
 
-_Last updated_: 05-25-2026
+_Last updated_: 05-26-2026
 
 This is a page for Introduction to Biological Anthropology (ANTH2A) with James Egan. I am one of four TAs that are here to ensure that you succeed in this course. Here you will find information and materials that are not required for the course, but will be helpful if you want a good score and develop skills that will help you through your college experience and beyond. If the information is not on Canvas, it will be here. Summaries of previous teaching sections and what to expect later will be posted here too.
 
@@ -68,6 +68,14 @@ Office hours are a space where you can ask me for any academic or professional a
 ##### Week 8
 
 - We had a Jeapordy game in preperation for the Finals, see the slides here for review <a href="/assets/pdf/gu_eric_anth2b_ta_week8_jeapardy.pdf" download="gu_eric_anth2b_ta_week8_jeapardy.pdf">here</a>. Congrats to KSL for winning!
+
+##### Week 9
+
+- We will go over HW2 and I will hand out a seperate worksheet that will help as practice for HW2. Please make sure to print out HW2 and bring it to section!
+
+##### Week 10
+
+- I will not be in person for section, but a sheet to aid in the memorization of primate taxonomy will be uploaded here!
 
 #### On Scantrons
 
