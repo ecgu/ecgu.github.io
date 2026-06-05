@@ -75,7 +75,7 @@ Office hours are a space where you can ask me for any academic or professional a
 
 ##### Week 10
 
-- I will not be in person for section, but a sheet to aid in the memorization of primate taxonomy will be uploaded here!
+- <a href="assets/pdf/gu_eric_anth2b_primate_sheet.pdf" download="gu_eric_anth2b_primate_sheet.pdf">Here is a sheet to aid in primate taxonomy memorization!</a> Good luck on the final!
 
 #### On Scantrons
 
