@@ -9,8 +9,8 @@ profile:
   image: cliff.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>顾翔海 (gù xiáng hǎi)</p>
-    <p>顧翔海 (ㄍㄨˋ ㄒㄧㄤˊ ㄏㄞˇ)</p>
+    <p>顧翔海</p>
+    <p>(ㄍㄨˋ ㄒㄧㄤˊ ㄏㄞˇ/ gù xiáng hǎi)</p>
     <p>Social Sciences Tower #643</p>
     <p>Irvine, CA 92697</p>
 
@@ -32,6 +32,8 @@ Hi, my name is Eric Gu. I am a PhD student in Anthropology at the University of 
 
 My current dissertation project is on social media influencers between the US and Taiwan, and how they shape our understandings of history, identity, and politics in increasingly polarized environments: how and why influencers produce content, how they interpret and represent complex histories, and how that informs our ideas of identity, place, and how political engagement is supposed to work. Why do people become influencers? How does the process of content creation shape who they are and what they want to be, and what sort of relationships and possibilities might unexpectedly emerge from the pursuit of online engagement? How might we re-imagine political discussion differently if we took social media seriously?
 
-Trained in anthropological theory and ethnographic methods, I aim to take people from all walks of life seriously with the respect they deserve, to understand what people believe and why, and build towards the conditions that would enable us to imagine better futures together. I also have experience working with big data, network science, and data visualization, and am interested in incorporating approaches from data science to enrich ethnographies that grapple with complex digital flows and transnational movements. I have a BS in Linguistics and Anthropology and a minor in Computer Science from <span title='Red and black, one pack, awooooooooooooooo'>Northeastern University</span>. I also did a Masters in Social Science at the University of Chicago.
+Trained in anthropological theory and ethnographic methods, I aim to take people from all walks of life seriously with the respect they deserve, to understand what people believe and why, and build towards the conditions that would enable us to imagine better futures together. I see my dissertation project as bringing together three of my long-standing interests: to explore how online discourses might challenge conventional ideals of communication and political imagination, to understand the politics of those who may be seen as marginal and where they are coming from, and, as a second-gen Chinese-American immigrant, to see how people navigate complicated identities and explore possibilities of international solidarity.
+
+I also have experience working with big data, network science, and data visualization, and am interested in incorporating approaches from data science to enrich ethnographies that grapple with the complex scales of digital flows and transnational movements. I have a BS in Linguistics and Anthropology and a minor in Computer Science from <span title='Red and black, one pack, awooooooooooooooo'>Northeastern University</span>. I also did a Masters in Social Science at the University of Chicago.
 
 In my spare time, I enjoy cooking, foraging, playing [TTRPGs](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html), contributing to [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia), and [shape-note singing](https://www.fasola-la.org/). Recently I have been getting into using invasive species for food and crafts. I am in the process of moving my non-academic writing about these topics into this webpage; more to come!
