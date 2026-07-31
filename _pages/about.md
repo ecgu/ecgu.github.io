@@ -9,8 +9,7 @@ profile:
   image: cliff.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>顧翔海</p>
-    <p>(ㄍㄨˋ ㄒㄧㄤˊ ㄏㄞˇ/ gù xiáng hǎi)</p>
+    <p>顧翔海/顾翔海</p>
     <p>Social Sciences Tower #643</p>
     <p>Irvine, CA 92697</p>
 
