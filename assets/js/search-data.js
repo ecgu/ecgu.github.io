@@ -59,7 +59,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-introduction-to-social-cultural-anthropology",
           title: 'Introduction to Social/Cultural Anthropology',
-          description: "ANTHRO2A Winter 2026",
+          description: "ANTHRO2A Fall 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/anth2a_fall2026/";
             },},{id: "projects-introduction-to-sociocultural-anthropology",
