@@ -57,7 +57,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-introduction-to-sociocultural-anthropology",
+          section: "News",},{id: "projects-introduction-to-social-cultural-anthropology",
+          title: 'Introduction to Social/Cultural Anthropology',
+          description: "ANTHRO2A Winter 2026",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/anth2a_fall2026/";
+            },},{id: "projects-introduction-to-sociocultural-anthropology",
           title: 'Introduction to Sociocultural Anthropology',
           description: "ANTHRO2A Winter 2026",
           section: "Projects",handler: () => {
