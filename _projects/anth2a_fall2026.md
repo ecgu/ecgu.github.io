@@ -51,3 +51,9 @@ The textbook, Perspectives (Second Edition), is free and open-source online. You
 
 - We will do introductions. Your assignment this week will simply be to introduce yourself in the section!
 - Slides from today can be found <a href="/assets/pdf/gu_eric_anth2a_ta_week1_intro.pdf" download="gu_eric_anth2a_ta_week1_intro.pdf">here</a>.
+
+##### Week 2
+
+- This week we talked about symbols, language, and kinship. Slides from today can be found <a href="/assets/pdf/gu_eric_anth2a_ta_week2_symbols_language_kinship.pdf" download="gu_eric_anth2a_ta_week2_symbols_language_kinship.pdf">here</a>.
+- Check Canvas for this week's assignment where you will submit a "healing" recipe.
+- We will discuss these recipes next week and use them for future assignments.
