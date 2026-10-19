@@ -8,7 +8,7 @@ category: uci
 related_publications: false
 ---
 
-_Last updated_: 09-26-2026
+_Last updated_: 10-18-2026
 
 This is a page for Introduction to Social/Cultural Anthropology (ANTH2A) with Valerie Olson. If you are looking for Egan's Intro class, you are in the wrong place! I am one of four TAs that are here to ensure that you succeed in this course. Here you will find information and materials for my teaching section.
 
@@ -57,3 +57,9 @@ The textbook, Perspectives (Second Edition), is free and open-source online. You
 - This week we talked about symbols, language, and kinship. Slides from today can be found <a href="/assets/pdf/gu_eric_anth2a_ta_week2_symbols_language_kinship.pdf" download="gu_eric_anth2a_ta_week2_symbols_language_kinship.pdf">here</a>.
 - Check Canvas for this week's assignment where you will submit a "healing" recipe.
 - We will discuss these recipes next week and use them for future assignments.
+
+##### Week 3
+
+- This week we reviewed practice midterm questions. Slides from today can be found <a href="/assets/pdf/gu_eric_anth2a_ta_week3_recipe_review.pdf" download="gu_eric_anth2a_ta_week3_recipe_review.pdf">here</a>.
+- Check Canvas for this week's assignment where you will analyze your own recipe and another person's recipe.
+- We will have a mock quiz next week and play Jeopardy in class.
