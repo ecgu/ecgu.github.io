@@ -8,7 +8,7 @@ category: uci
 related_publications: false
 ---
 
-_Last updated_: 10-18-2026
+_Last updated_: 10-25-2026
 
 This is a page for Introduction to Social/Cultural Anthropology (ANTH2A) with Valerie Olson. If you are looking for Egan's Intro class, you are in the wrong place! I am one of four TAs that are here to ensure that you succeed in this course. Here you will find information and materials for my teaching section.
 
@@ -63,3 +63,8 @@ The textbook, Perspectives (Second Edition), is free and open-source online. You
 - This week we reviewed practice midterm questions. Slides from today can be found <a href="/assets/pdf/gu_eric_anth2a_ta_week3_recipe_review.pdf" download="gu_eric_anth2a_ta_week3_recipe_review.pdf">here</a>.
 - Check Canvas for this week's assignment where you will analyze your own recipe and another person's recipe.
 - We will have a mock quiz next week and play Jeopardy in class.
+
+##### Week 4
+
+- This week we reviewed the midterm through a game of Jeopardy. Congratulations to uhhh I forgot the team names whoops, anyways the slides from today are <a href="/assets/pdf/eric_gu_ta_anth2a_midterm_jeapordy.pdf" download="eric_gu_ta_anth2a_midterm_jeapordy.pdf">here</a>!
+- Good luck next week! Remember to show up with a charged computer with lockdown browser ready to go!
