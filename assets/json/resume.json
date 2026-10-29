@@ -8,7 +8,7 @@
     "url": "https://ecgu.github.io/",
     "summary": "PhD Student in Anthropology at UC Irvine, studying political social media influencers in the US.",
     "location": {
-      "address": "Social Sciences Tower (SST) #643",
+      "address": "Social and Behavioural Sciences Gateway (SBSG) #3549",
       "postalCode": "CA 92617",
       "city": "Irvine",
       "countryCode": "US",
@@ -22,48 +22,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Freelance Translator",
-      "position": "EN<>ZH-CN Localization",
-      "url": "",
-      "startDate": "2016-01-01",
-      "endDate": "",
-      "summary": "I have worked as an in-house and freelance translator between English and Chinese (Simplified) for near a decade. Rather than simply translating a message literally, my emphasis is on enriching interpretations of works by localizing them with different cultural contexts in mind.",
-      "highlights": [
-        "Translated, localized, proofread, and conducted LQA using industry standard CAT tools, specializing in video games",
-        "Localized multiple well-known AAA and mobile video games",
-        "Consulted and facilitated communication between Chinese and English-speaking divisions of companies to improve efficiency and avoid cultural misunderstandings."
-      ]
-    },
-    {
-      "name": "Northeastern University Communication Media and Marginalization Lab",
-      "location": "Boston, MA",
-      "position": "Research Assistant",
-      "url": "https://www.networkscienceinstitute.org/commlab",
-      "startDate": "2020-01-01",
-      "endDate": "2021-01-01",
-      "summary": "Undergraduate research position studying and applying computational social science methods at a network science lab studying marginalization.",
-      "highlights": [
-        "Learned and assisted in data collection and network analysis for multiple studies",
-        "Coded for quantitative studies of political discourse on Twitter"
-      ]
-    },
-    {
-      "name": "Boston College Language Learning Lab",
-      "location": "Boston, MA",
-      "position": "Lab Manager Assistant",
-      "url": "https://ai4commsci.github.io/index.html",
-      "startDate": "2019-06-01",
-      "endDate": "2020-01-01",
-      "summary": "Six month full-time co-op internship assisting with multiple projects and operations at a cognitive science lab on language acquisition.",
-      "highlights": [
-        "Implemented designs for online MTurk experiments using Python and HTML+Javascript",
-        "Taught research assistants programming in R and Python for analysis of large data sets",
-        "Re-organized lab wiki and file management system for efficient workflow"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "University of California, Irvine",
@@ -164,6 +122,48 @@
       "publisher": "Pan-UC Religious Studies Conference",
       "releaseDate": "2026-04-03",
       "type": "talk"
+    }
+  ],
+  "work": [
+    {
+      "name": "Freelance Translator",
+      "position": "EN<>ZH-CN Localization",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "",
+      "summary": "I have worked as an in-house and freelance translator between English and Chinese (Simplified) for near a decade. Rather than simply translating a message literally, my emphasis is on enriching interpretations of works by localizing them with different cultural contexts in mind.",
+      "highlights": [
+        "Translated, localized, proofread, and conducted LQA using industry standard CAT tools, specializing in video games",
+        "Localized multiple well-known AAA and mobile video games",
+        "Consulted and facilitated communication between Chinese and English-speaking divisions of companies to improve efficiency and avoid cultural misunderstandings."
+      ]
+    },
+    {
+      "name": "Northeastern University Communication Media and Marginalization Lab",
+      "location": "Boston, MA",
+      "position": "Research Assistant",
+      "url": "https://www.networkscienceinstitute.org/commlab",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Undergraduate research position studying and applying computational social science methods at a network science lab studying marginalization.",
+      "highlights": [
+        "Learned and assisted in data collection and network analysis for multiple studies",
+        "Coded for quantitative studies of political discourse on Twitter"
+      ]
+    },
+    {
+      "name": "Boston College Language Learning Lab",
+      "location": "Boston, MA",
+      "position": "Lab Manager Assistant",
+      "url": "https://ai4commsci.github.io/index.html",
+      "startDate": "2019-06-01",
+      "endDate": "2020-01-01",
+      "summary": "Six month full-time co-op internship assisting with multiple projects and operations at a cognitive science lab on language acquisition.",
+      "highlights": [
+        "Implemented designs for online MTurk experiments using Python and HTML+Javascript",
+        "Taught research assistants programming in R and Python for analysis of large data sets",
+        "Re-organized lab wiki and file management system for efficient workflow"
+      ]
     }
   ],
   "skills": [
