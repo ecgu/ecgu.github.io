@@ -157,6 +157,15 @@
       "summary": "Academic excellence recognition for 3 consecutive years"
     }
   ],
+  "publications":[
+    {
+      "name": "The Grammar of Conversion: Testimony and the Making of Political Subjects in American Populism and Beyond",
+      "authors": ["Eric Gu", "Athenas Guerra"],
+      "publisher": "Pan-UC Religious Studies Conference",
+      "releaseDate": "2026-04-03",
+      "type": "talk"
+    }
+  ],
   "skills": [
     {
       "name": "Qualitative Methods",
