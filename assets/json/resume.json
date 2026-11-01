@@ -101,7 +101,7 @@
       "summary": "Academic excellence recognition for 3 consecutive years"
     }
   ],
-  "publications":[
+  "publications": [
     {
       "name": "The Grammar of Conversion: Testimony and the Making of Political Subjects in American Populism and Beyond",
       "authors": ["Eric Gu", "Athenas Guerra"],
@@ -198,13 +198,13 @@
       "icon": ""
     },
     {
-      "language": "Japanese",
+      "language": "Hokkien",
       "fluency": "Professional Working Proficiency",
       "icon": ""
     },
     {
-      "language": "Hokkien",
-      "fluency": "Limited Working Proficiency",
+      "language": "Japanese",
+      "fluency": "Professional Working Proficiency",
       "icon": ""
     },
     {
